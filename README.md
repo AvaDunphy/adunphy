@@ -2,4 +2,4 @@
 
 ## Education 
 #Highschool : The Maderia School, McLean VA
-#College: The University of Notre Dame, IN
+ #College: The University of Notre Dame, IN
