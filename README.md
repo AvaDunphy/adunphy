@@ -1,5 +1,5 @@
 # Hi There!
 
 ## Education 
-# Highschool : The Maderia School, McLean VA
-# College: The University of Notre Dame, IN
+#Highschool : The Maderia School, McLean VA
+#College: The University of Notre Dame, IN
