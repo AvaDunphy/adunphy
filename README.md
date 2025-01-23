@@ -3,5 +3,6 @@ Currently I am a Sophmore at the University of Notre Dame, studying Finance with
 
 ## Education 
 Highschool : The Maderia School, McLean VA
+
 College: The University of Notre Dame, IN
 
