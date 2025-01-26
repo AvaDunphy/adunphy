@@ -20,5 +20,6 @@ Above you will see me (left) and my best friend Pear (right)
 
 ## Contact Me ☎️
 📞 : (540) 326-6882 
+
 📧 : adunphy@nd.edu
 
